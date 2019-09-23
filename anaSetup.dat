@@ -1,0 +1,9 @@
+             channel      nPointBaseLine          sigConstTh          chargeWinL          chargeWinR         sigPolarity
+                   0                  20                0.01                   5                  20                 neg
+                   1                  20                0.05                  10                  40                 neg
+                   2                  20                0.01                  80                2000                 neg
+                   3                  20                0.01                  10                  40                 pos
+                   4                  20                0.01                  10                  40                 pos
+                   5                  20                0.01                  10                  40                 pos
+                   6                  20                0.01                  10                  40                 pos
+                   7                  20                0.01                  10                  40                 pos
